@@ -1,0 +1,31 @@
+  {
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+    "OKUMADANGECME3" : "BOT BAZEN HATA ÇIKARDIĞI İÇİN HOŞ GELDİN EMOJİLERİ KALDIRILMIŞTIR.",
+
+    "sahip" : "752062218073538630",
+    "prefix" : ".",
+    "footer" : "Srâmtaи ❤️ Heriason",
+    "botdurum": "Srâmtaи ❤️ Heriason",
+
+    "tag" : "⫝",
+    "sembol" : "|",
+  
+    "yetkiliRol" : ["849722454494674995", "2. YOKSA BOŞ BIRAK", "3. YOKSA BOŞ BIRAK"],
+    "vipRol" : "853641954293579817",
+    "boosterRol" : "",
+    "kayıtsızRol" : "853656430899757076",
+    "erkekRol1" : "853641956420747316",
+    "erkekRol2" : "853641956801904700",
+    "kadınRol1" : "853641957334319114",
+    "kadınRol2" : "853641958474645563",
+
+    "tagRol" : "853661001692872714",
+
+    "hosgeldinKanal" : "853643514146193408",
+    "sohbetKanal" : "853640296953151500", 
+    "botSesKanal" : "853661682454757396",
+  
+    "yes" : "853662888204173324",
+    "no" : "853662831862087720"
+}
